@@ -16,7 +16,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "",
+      name: "1",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
@@ -85,7 +85,7 @@ const default_config = {
       ],
     },
     {
-      name: "",
+      name: "2",
       background_url: "src/img/banners/cbg-6.gif",
       categories: [
         {
@@ -142,7 +142,7 @@ const default_config = {
       ],
     },
     {
-      name: "",
+      name: "3",
       background_url: "src/img/banners/cbg-11.gif",
       categories: [
         {
